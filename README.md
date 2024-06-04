@@ -15,6 +15,7 @@ dependencies needed:
 -run `npm start`
 
 ## Link to GitHub repo:
+https://github.com/Carlospetsdogs/Social-Network-Api
 
 ## Link to demonstratiom video:
 
